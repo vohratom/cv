@@ -9,6 +9,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet/less" type="text/css" href="css/main.less" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!--NOT WORKING USING A LINE BELLOW WITH URL // <script src="js/less.js" type="text/javascript"></script>-->
     <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.3/less.min.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -48,8 +49,14 @@
     -->
     <div class="container">
       <div class="row">
+        <div class="col-lg-12 center upper bold">
+          <h1>Tomas Vohradnik</h1>
+        </div>
+      </div>
+
+      <div class="row">
         <div class="col-lg-8">
-          <span class="glyphicon glyphicon-briefcase" aria-hidden="true"> Empleyment</span>
+          <h1>Experience</h1>
           
           <div class="panel panel-default">
             <div class="panel-heading positions upper bold">Software Tester
@@ -64,6 +71,14 @@
               <span class="label mint">Full time</span>
               <div class="logo pull-right"><img src="images/companies/adecco.png"></div>
               <p>Wasting of time.</p>
+            </div>
+            <div class="panel-footer">
+              <span class="label label-primary">Jira</span>
+              <span class="label label-primary">Software Testing</span>
+              <span class="label label-primary">Quality Assurance</span>
+              <span class="label label-primary">Gaming</span>
+              <span class="label label-primary">League of Legends</span>
+              <span class="label label-primary">Daily cooperating with Canadiens</span>
             </div>
           </div>
 
@@ -122,10 +137,37 @@
           
         </div>
         <div class="col-lg-4">
+          <div class="center">
+            <h1>Social</h1>
+          
 
+            <a class="btn btn-social-icon btn-twitter">
+              <span class="fa fa-twitter fa-2x"></span>
+            </a>
+
+            <a class="btn btn-social-icon btn-facebook">
+              <span class="fa fa-facebook fa-2x"></span>
+            </a>
+
+            <a class="btn btn-social-icon btn-bitbucket">
+              <span class="fa fa-bitbucket fa-2x"></span>
+            </a>
+          
+            <a class="btn btn-social-icon btn-github">
+              <span class="fa fa-github fa-2x"></span>
+            </a>
+
+            <a class="btn btn-social-icon btn-linkedin">
+              <span class="fa fa-linkedin fa-2x"></span>
+            </a>
+
+            <a class="btn btn-social-icon btn-bitbucket">
+              <span class="fa fa-bitbucket fa-2x"></span>
+            </a>
+          </div>
           <div class="panel panel-default">
-            <div class="panel-heading positions upper bold">
-              <span class="glyphicon glyphicon-check" aria-hidden="true"> Skills</span>
+            <div class="panel-heading positions upper bold center">
+              <span class="glyphicon glyphicon-check" aria-hidden="true"></span> Technical Skills
             </div>
             <div class="panel-body">
               
@@ -136,10 +178,47 @@
                 </div>
               </div>
 
+              <p>CSS</p>
+              <div class="progress">
+                <div class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                  100%
+                </div>
+              </div>
+
+              <p>PHP</p>
+              <div class="progress">
+                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+                  50%
+                </div>
+              </div>
+
+              <p>JavaScript</p>
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+                  50%
+                </div>
+              </div>
+
+              <p>Other</p>
+              <div class="progress">
+                <div class="progress-bar progress-bar-striped active blue-jeans" style="width: 25%">
+                  <span class="sr-only">25% Complete (success)</span>GIT
+                </div>
+                <div class="progress-bar progress-bar-striped active grass" style="width: 25%">
+                  <span class="sr-only">20% Complete (warning)</span>LESS
+                </div>
+                <div class="progress-bar progress-bar-striped active pink-rose" style="width: 25%">
+                  <span class="sr-only">10% Complete (danger)</span>SQL
+                </div>
+                <div class="progress-bar progress-bar-striped active lavender" style="width: 25%">
+                  <span class="sr-only">10% Complete (danger)</span>Bootstrap
+                </div>
+              </div>
+
             </div>
           </div>
           
-
+          <!--
           <p><span class="glyphicon glyphicon-check" aria-hidden="true"> Skills</span></p>
 
           <p>HTML</p>
@@ -189,20 +268,23 @@
           <br>
           <br>
           <p><span class="glyphicon glyphicon-folder-open" aria-hidden="true"> Certifikates</span></p>
-
+    
           <p>HTML</p>
           <div class="progress">
             <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
               100%
             </div>
           </div>
+          -->
 
-
-          <span class="glyphicon glyphicon-education" aria-hidden="true"> Certifikates</span>
-
-          <p>HTML</p>
           
-          
+          <div class="panel panel-default">
+            <div class="panel-heading"><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Education</div>
+            <div class="panel-body">
+              Panel content
+            </div>
+          </div>
+
 
         </div>
       </div>
