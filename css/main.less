@@ -1,5 +1,6 @@
 @bg-color: #000;
 @text-color: #fff;
+@small-text: 12px;
 
 //Colors:
 @blue-jeans: #5d9cec;
@@ -20,6 +21,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: #F3F3F3;
 }
 
 .upper {
@@ -27,7 +29,7 @@ html, body {
 }
 
 .bold {
-	font-size: bold;
+	font-weight: bold;
 }
 
 .center {
@@ -52,19 +54,13 @@ html, body {
 	border-radius: 50%;
 }
 
+.small-text {
+	font-size: @small-text;
+	color: @dark-grey;
+}
+
 .profile-bg {
 	background-color: #000;
-}
-
-.profile-bg > h1, h2, h3, h4, h5, h6, h7 {
-	color: #fff;
-	font-weight: bold;
-	text-align: center;
-}
-
-.profile-bg > p {
-	color: darken(@text-color, 15%);
-	text-align: center;
 }
 
 .blue-jeans {
