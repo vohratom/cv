@@ -1,6 +1,8 @@
 @bg-color: #000;
 @text-color: #fff;
 @small-text: 12px;
+@smaller-text: 10px;
+@bigger-text: 16px;
 
 //Colors:
 @blue-jeans: #5d9cec;
@@ -57,6 +59,16 @@ html, body {
 .small-text {
 	font-size: @small-text;
 	color: @dark-grey;
+}
+
+.smaller-text {
+	font-size: @smaller-text;
+	color: lighten(@dark-grey, 20%);
+}
+
+.bigger-text {
+	font-size: @bigger-text;
+	
 }
 
 .profile-bg {
