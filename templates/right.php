@@ -109,7 +109,7 @@
           </div>
           
           <div class="panel panel-default">
-            <div class="panel-heading positions upper bold center"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> Interests</div>
+            <div class="panel-heading positions upper bold center"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Interests</div>
             <div class="panel-body">
               <a href="www.businessinsider.com">Business Insider</a>
               <a href="www.codecademy.com">Codecademy</a>
@@ -118,7 +118,7 @@
           </div>
 
           <div class="panel panel-default">
-            <div class="panel-heading positions upper bold center"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> Awards</div>
+            <div class="panel-heading positions upper bold center"><i class="fa fa-trophy"></i> Awards</div>
             <div class="panel-body">
               Ceo finalist
               Certifikaty

@@ -33,7 +33,7 @@
         </div>
       </div>
       
-      <div class="col-lg-6 center upper bold">
+      <div class="col-lg-12 center upper bold" style="border: 1px solid red;">
         <div class="ct-chart ct-perfect-fourth">
         
         
@@ -68,6 +68,11 @@
       <div class="row">
          <div class="col-lg-12 center" style="border: 1px solid red;">
             <h1>Contact form</h1>
+
+             <?php 
+              include('inc/contact_form.php');
+            ?>  
+
           </div>
       </div>
     </div>
