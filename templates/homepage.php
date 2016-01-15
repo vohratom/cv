@@ -66,7 +66,7 @@
 
     <div class="container">
       <div class="row">
-         <div class="col-lg-12 center" style="border: 1px solid red;">
+         <div class="col-lg-12 center">
             <h1>Contact form</h1>
 
              <?php 

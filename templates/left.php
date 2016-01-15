@@ -48,7 +48,33 @@
                   <img src="images/companies/adecco.png">
                 </a>
               </div>
-              <p>Wasting of time.</p>
+              <p>
+                A team of 30 localization QA testers.<br>
+                <br>
+                3 Places - Slough, Montreal, Dublin.<br>
+                <br>
+                Me and Polish Localization Software Tester located in Slough, United Kingdom.<br>
+                The rest is in Montreal, Canada.<br>
+                Cooperating with Rioters located in Dublin, Ireland.<br>
+                <br>
+                Sounds like a mess?<br>
+                A little bit, but it's just an example of how easy is an international cooperation in real time thanks to the cloud.<br>
+                <br>
+                How do we work?<br>
+                - Google Drive Excel sheets for test plans<br>
+                - Skype for communication<br>
+                - Jira for bug tracking<br>
+                - Confluence for documentation<br>
+                - XLOC for localization source files<br>
+                - VPN for security<br>
+                <br>
+                My role?<br>
+                Taking care about Czech localization of the game League of Legends. Coordinating and helping others with XLOC changes - mostly HTML formatting.<br>
+                <br>
+
+                TAGS:
+                Software testing, Agile Testing, Regressions, Jira, Bug Reporting, Bug Tracking, League of Legends, Localization, VPN, International Cooperation, Riot, Microsoft
+              </p>
             </div>
             <div class="panel-footer">
               <span class="label label-primary">Jira</span>
@@ -81,7 +107,21 @@
                   <img src="images/companies/t-mobile.png">
                 </a>
               </div>
-              <p>Continuous translation of GTS Centrex Portal (GTS is a part of T-Systems now).</p>
+              <p>
+                Continuous translation of GTS Centrex Portal (GTS is a part of T-Systems now).<br>
+                <br>
+                T-Mobile:<br>
+                We need to translate another part of Centrex website portal, can you take care about it?<br>
+                <br>
+                Me:<br>
+                with pleasure, so I've found all necessary files in Centrex's source files repository, asked translator for translations, set up the GIT repository to have version control and started inserting Czech translations directly into source files and fixing HTML issues. Commit, Push, Test, Upload, Job Done.<br>
+                <br>
+                The nice thing about it?<br>
+                International cooperation again. Working from London with people in Prague.<br>
+                <br>
+                TAGS:<br>
+                HTML, CSS, GIT, Translations, Project Management, Centrex System, Microsites
+              </p>
             </div>
             <div class="panel-footer">
               <span class="label label-primary">HTML</span>

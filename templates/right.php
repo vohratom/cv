@@ -43,15 +43,15 @@
 
               <p class="bold">PHP</p>
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
-                  50%
+                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                  40%
                 </div>
               </div>
 
               <p class="bold">JavaScript</p>
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
-                  50%
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                  40%
                 </div>
               </div>
 
@@ -136,8 +136,8 @@
                   <img src="images/uk.png" width="50px" height="50px">
                 </div>
               
-              <i>Faculty of Physical Education and Sport</i>
-              <span class="small-text">2011 - 2014</span>
+                <i>Faculty of Physical Education and Sport</i><br>
+                <span class="small-text">2011 - 2014</span>
               
               <br><br>
               <p>After 6 semesters of successful studying I voluntarily quit the school.
@@ -147,12 +147,13 @@
               
               <br>
 
-              <h4>High school of Information Technology
+              <h4>High school of Information Technology</h4>
                 <div class="pull-right">
                   <img src="images/it.jpg" width="50px">
                 </div>
-              </h4>
-              <span class="small-text">2006 - 2010</span>
+                
+                <i>Information Technology</i><br>
+                <span class="small-text">2006 - 2010</span>
               <p>Great school, I have a strong IT background, thank's for that.</p>
             </div>
           </div>
