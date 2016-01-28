@@ -92,20 +92,51 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading positions upper bold center"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Interests</div>
-			<div class="panel-body">
-				<a href="www.businessinsider.com">Business Insider</a>
-				<a href="www.codecademy.com">Codecademy</a>
-				<a href="www.livecoding.tv">Livecoding</a>
+			<div class="panel-body center">
+				<a href="http://www.businessinsider.com/">Business Insider</a>
+				<span> · </span>
+				<a href="http://www.codecademy.com/">Codecademy</a>
+				<span> · </span>
+				<a href="http://www.livecoding.tv/">Livecoding</a>
 			</div>
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading positions upper bold center"><i class="fa fa-trophy"></i> Awards
 		</div>
-		<div class="panel-body">
-			Ceo finalist
-			Certifikaty
-			Ekurzy
-			Filmovy role
+		<div class="panel-body center">
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14WkZFdk1tQXFNQ0E/view" target="_blank">CEO finalist</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14cTFTc1BycmxtUW8/view?trk=profile_certification_title" target="_blank">Development in Microsoft .NET</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14TFRyamwyenF4bWc/view?trk=profile_certification_title" target="_blank">Development in Java</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14dXhQc3BPX1duYUk/view?trk=profile_certification_title" target="_blank">Development in Oracle PL/SQL</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14Mk5NTjZ2SDU4M3M/view?trk=profile_certification_title" target="_blank">CRM Implementation - Implementation and Customization</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14cXdqcXBJV0ZBUEk/view?trk=profile_certification_title" target="_blank">Application development in MS SharePoint</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14dTlkQXQwdElhMUk/view?trk=profile_certification_title" target="_blank">Analysis and design software, basics of UML</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14eHRzT3RaRWVGSms/view?trk=profile_certification_title" target="_blank">Data Warehousing, Reporting, Business Intelligence</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14aFhsMUY3VHluUGc/view?trk=profile_certification_title" target="_blank">Project management</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14YVVYQmdKbkVreFk/view?trk=profile_certification_title" target="_blank">Testing and Quality Assurance of Software</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14YkExMTUtejBLX0k/view?trk=profile_certification_title" target="_blank">System and Application Integration</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14UjVtT2Y5RlNvbk0/view?trk=profile_certification_title" target="_blank">Liferay portal development and implementation</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14ZkdEZG9YUXFqTk0/view?trk=profile_certification_title" target="_blank">Development of mobile applications for Apple iOS (Objective-C)</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14c1pSWWpaLWlXbW8/view?trk=profile_certification_title" target="_blank">Development of mobile applications for Android (Android SDK)</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14blNsbWN3bXJ0WUk/view?trk=profile_certification_title" target="_blank">Development of mobile applications in PhoneGap - HTML5-CSS3</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14U19NenlvV1N0MU0/view?trk=profile_certification_title" target="_blank">Development of mobile applications in Adobe Flex</a>
+			<span> · </span>
+			<a href="https://drive.google.com/file/d/0B-tySg1Dpj14Zk02MTk3d0YyTEU/view?trk=profile_certification_title" target="_blank">Development of mobile applications in Appcelerator Titanium</a>
 		</div>
 	</div>
 	<div class="panel panel-default">
@@ -125,15 +156,24 @@
 				- I decided that school doesn't make me a better man. So I have moved to London to learn english and to get new experience with living and working
 				in international evnironment which corresponds with my life plans.
 			</p>
-			<br> 
+			<br>
+			<h4>High school of Information Technology</h4>
+			<div class="pull-right">
+				<img src="images/it.jpg" width="50px">
+			</div>
+			<i>Information Technology</i>
+			<br>
+			<span class="small-text">2006 - 2010</span>
+			<br><br>
 			<p>
-				<h4>High school of Information Technology</h4>
-				<div class="pull-right">
-					<img src="images/it.jpg" width="50px">
-				</div>
-				<i>Information Technology</i>
+				Basic knowledge about IT and basics of programming languages.<br>
 				<br>
-				<span class="small-text">2006 - 2010</span>
+				Examples:<br>
+				- Developed crossroad system in Assembler.<br>
+				- Basic applications in C.<br>
+				- HTML and CSS basics.<br>
+				- Knowledge about Microprocessors 8051<br>
+				<br>
 				Great school, I have a strong IT background, thank's for that.
 			</p>
 		</div>

@@ -24,14 +24,14 @@
 		<div class="header">
 			<img src="images/avatar.jpg" class="img-circle img-thumbnail">
 		</div>
-		<div class="container border">
+		<div class="container ">
 			<div class="row">
 				<div class="col-lg-12 center upper bold">
 					<h1 class="bold">Tomas Vohradnik</h1>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 center upper bold" style="border: 1px solid red;">
+				<div class="col-lg-12 center upper bold border graph">
 					<div class="ct-chart ct-perfect-fourth">
 						<script>
 							<?php 
