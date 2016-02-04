@@ -1,13 +1,5 @@
 <?php 
 	if (isset($_POST['submit'])) {
-
-		if(empty($_POST['email'])) { 
-			echo("Please, fill your email.");
-		}
-		if(empty($_POST['message'])) {
-			echo("Please, fill message filed");
-		}
-
 		$to = 'tomas.vohradnik@gmail.com';
 		$subject = 'New Message from Contact Form cv.tomasvohradnik.com';
 		$message = $_POST['message'];
