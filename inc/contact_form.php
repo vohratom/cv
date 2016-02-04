@@ -1,13 +1,13 @@
 	<div class="form">
-		<div class="form-group">
-				<form name="form" method="POST" action="send.php">
-					<div class="form-group">
-						<input class="form-control input-lg" placeholder="e-mail" name="email">
-					</div>
-					<div class="form-group">
-						<textarea class="form-control input-lg" rows="5" placeholder="message" name="message"></textarea>
-					</div>
-					<button type="submit" class="btn btn-success btn-lg bold" name="submit">SEND NOW</button>
-				</form>
+		<form name="form" method="POST" action="send.php">
+			<div class="form-group has-feedback">
+				<input class="form-control input-lg" type="email" placeholder="e-mail" name="email" id="email">
+				<span class="glyphicon form-control-feedback mt5" id="email1"></span>
+			</div>
+			<div class="form-group has-feedback">
+				<textarea class="form-control input-lg" type="text" rows="5" placeholder="message" name="message" id="message"></textarea>
+				<span class="glyphicon form-control-feedback mt5" id="message1"></span>
+			</div>
+			<button type="submit" class="btn btn-success btn-lg bold" name="submit">SEND NOW</button>
 		</form>
 	</div>
