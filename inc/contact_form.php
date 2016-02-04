@@ -1,6 +1,6 @@
 	<div class="form">
 		<div class="form-group">
-				<form name="form" method="POST" action="index.php">
+				<form name="form" method="POST" action="send.php">
 					<div class="form-group">
 						<input class="form-control input-lg" placeholder="e-mail" name="email">
 					</div>

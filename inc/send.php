@@ -8,9 +8,8 @@
 					'Reply-To: webmaster@example.com' . "\r\n" .
 					'X-Mailer: PHP/' . phpversion();
 		
-			
 		mail($to, $subject, $message, $email, $headers);
-		header( 'Location: http://www.google.com' );
+		header( 'Location: http://www.cv.tomasvohradnik.com/thankyou.php' );
+		exit;
 		
 	}
-?>

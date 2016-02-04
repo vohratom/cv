@@ -11,7 +11,7 @@
 		<div class="panel-body">
 			<div class="logo pull-right"><i class="fa fa-question fa-4x"></i>
 			</div>
-			<p class="bold bigger-text">Now I am looking for a Junior Website Developer Position</p>
+			<p class="bold bigger-text">I am looking for a Junior Website Developer Position</p>
 		</div>
 		<div class="panel-footer">
 			<span class="label label-primary">HTML</span>
@@ -398,9 +398,6 @@
 				<br>
 				The Best Client?<br>
 				domyhorousanky.cz<br>
-				<br>
-				Languages:<br>
-				Mostly HTML, CSS and basics of PHP.<br>
 			</p>
 		</div>
 		<div class="panel-footer">

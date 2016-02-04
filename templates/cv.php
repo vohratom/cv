@@ -9,8 +9,6 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet/less" type="text/css" href="css/main.less" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="graph/chartist.min.css">
-		<script src="graph/chartist.min.js"></script>
 		<!--NOT WORKING USING A LINE BELLOW WITH URL // <script src="js/less.js" type="text/javascript"></script>-->
 		<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.3/less.min.js"></script>
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -33,7 +31,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 mtb">
 					<?php 
-						include('inc/intro.php');
+						include('intro.php');
 					?>    
 				</div>
 			</div>
@@ -63,12 +61,12 @@
 					?>
 				</div>
 			</div>
-			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-			<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-			<!-- Include all compiled plugins (below), or include individual files as needed -->
-			<script src="js/bootstrap.min.js"></script>
-			<script src="js/input_validator.js"></script>
 		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="js/smoothscroll.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
 	</body>
 </html>

@@ -93,11 +93,11 @@
 	<div class="panel panel-default">
 		<div class="panel-heading positions upper bold center"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Interests</div>
 			<div class="panel-body center">
-				<a href="http://www.businessinsider.com/">Business Insider</a>
+				<a href="http://www.businessinsider.com/" target="_blank">Business Insider</a>
 				<span> · </span>
-				<a href="http://www.codecademy.com/">Codecademy</a>
+				<a href="http://www.codecademy.com/" target="_blank">Codecademy</a>
 				<span> · </span>
-				<a href="http://www.livecoding.tv/">Livecoding</a>
+				<a href="http://www.livecoding.tv/" target="_blank">Livecoding</a>
 			</div>
 	</div>
 	<div class="panel panel-default">
@@ -150,10 +150,9 @@
 			<br>
 			<span class="small-text">2011 - 2014</span>
 			<br><br>
-			<p>
-				After 6 semesters of successful studying I voluntarily quit the school.
-				Why?
-				- I decided that school doesn't make me a better man. So I have moved to London to learn english and to get new experience with living and working
+			<p>After 6 semesters of successful studying I voluntarily quit the school.</p>
+			<p>Why?</p>
+			<p>I decided that school doesn't make me a better man. So I have moved to London to learn english and to get new experience with living and working
 				in international evnironment which corresponds with my life plans.
 			</p>
 			<br>
@@ -165,15 +164,14 @@
 			<br>
 			<span class="small-text">2006 - 2010</span>
 			<br><br>
-			<p>
-				Basic knowledge about IT and basics of programming languages.<br>
-				<br>
-				Examples:<br>
+			<p>Basic knowledge about IT and basics of programming languages.</p>
+			<p>Examples:<br>
 				- Developed crossroad system in Assembler.<br>
 				- Basic applications in C.<br>
 				- HTML and CSS basics.<br>
 				- Knowledge about Microprocessors 8051<br>
-				<br>
+			</p>
+			<p>
 				Great school, I have a strong IT background, thank's for that.
 			</p>
 		</div>
