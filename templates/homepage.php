@@ -31,19 +31,15 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 center upper bold border graph">
-					<div class="ct-chart ct-perfect-fourth">
-						<script>
-							<?php 
-								include('inc/graph.js');
-							?>    
-						</script>
-					</div>
+				<div class="col-lg-6 col-lg-offset-3 mtb">
+					<?php 
+						include('inc/intro.php');
+					?>    
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 center">
-					<h1 style="color: grey;">Experience</h1><br><br>
+				<div class="col-lg-12 center" id="experience">
+					<h2 class="grey">Experience</h2><br><br>
 				</div>
 			</div>
 			<div class="row">
@@ -60,8 +56,8 @@
 			</div>
 			<br><br>
 			<div class="row">
-				<div class="col-lg-12 center">
-					<h1>Contact form</h1>
+				<div class="col-lg-12 center" id="contact">
+					<h2>Contact Form</h2>
 					<?php 
 						include('inc/contact_form.php');
 					?>

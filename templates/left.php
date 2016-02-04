@@ -392,7 +392,7 @@
 			</span>
 		</div>
 		<div class="panel-body">
-			<div class="logo pull-right">Factory Design</div>
+			<div class="logo pull-right"><img src="images/companies/fd.png"></div>
 			<p>
 				The Web and Graphic studio created with my friend at high school. Focused on websites.<br>
 				<br>
