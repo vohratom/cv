@@ -12,7 +12,7 @@
 			<p>I am currently learning PHP framework <a href="https://nette.org/en/" target="_blank">Nette</a>.</p>
 		</div>
 		<div class="panel-footer center">
-			<a href="#experience" class="btn btn-default btn-lg upper smoothScroll">Tomas's Experience</a>
-			<a href="#contact" class="btn btn-primary btn-lg upper bold smoothScroll">Contact Me Now</a>
+			<a href="#experience" class="btn btn-default btn-lg upper smoothScroll btn-responsive">Tomas's Experience</a>
+			<a href="#contact" class="btn btn-primary btn-lg upper bold smoothScroll btn-responsive">Contact Me Now</a>
 		</div>
 	</div>

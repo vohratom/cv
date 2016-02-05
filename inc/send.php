@@ -7,6 +7,6 @@
 		$headers = 'From: noreply@cv.tomasvohradnik.com';
 		
 		mail($to, $subject, $message, $email, $headers);
-		header( 'Location: http://www.cv.tomasvohradnik.com/thankyou.php' );
+		header( 'Location: http://www.cv.tomasvohradnik.com/thankyou.php');
 		exit;
 	}

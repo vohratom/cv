@@ -26,7 +26,7 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading ">
-			<span class="positions upper bold">Software QA Tester, Localization Tester</span>
+			<span class="positions upper bold">Software QA & Localization Tester</span>
 			<span class="small-text">1,5+ year</span>
 			<span class="smaller-text">(now - 2014)</span>
 			<span class="pull-right">
@@ -79,7 +79,7 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading ">
-			<span class="positions upper bold">Web Developer, Localization Coordinator</span>
+			<span class="positions upper bold">Web Developer, Loc. Coordinator</span>
 			<span class="small-text">6 months</span>
 			<span class="smaller-text">(2015)</span>
 			<span class="pull-right">
@@ -179,7 +179,7 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading ">
-			<span class="positions upper bold">Web Developer, Localization Coordinator</span>
+			<span class="positions upper bold">Web Developer, Loc. Coordinator</span>
 			<span class="small-text">1 year</span>
 			<span class="smaller-text">(2014 - 2013)</span>
 			<span class="pull-right">
@@ -409,7 +409,7 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading ">
-			<span class="positions upper bold">Web Developer, Web Designer</span>
+			<span class="positions upper bold">Web Developer & Designer</span>
 			<span class="small-text">2 years</span>
 			<span class="smaller-text">(2008 - 2006)</span>
 			<span class="pull-right">

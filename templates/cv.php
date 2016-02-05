@@ -52,8 +52,7 @@
 					?>
 				</div>
 			</div>
-			<br><br>
-			<div class="row">
+			<div class="row tm">
 				<div class="col-lg-12 center" id="contact">
 					<h2>Contact Form</h2>
 					<?php 
